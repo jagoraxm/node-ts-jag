@@ -1,0 +1,24 @@
+{
+  "name": "ts-jag",
+  "version": "1.0.0",
+  "description": "Node con typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagoraxm/node-ts-jag.git"
+  },
+  "keywords": [
+    "node",
+    "typescript"
+  ],
+  "author": "JAG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jagoraxm/node-ts-jag/issues"
+  },
+  "homepage": "https://github.com/jagoraxm/node-ts-jag#readme"
+}
